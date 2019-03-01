@@ -1,0 +1,15 @@
+/Users/aluno/Projects/NotificationToast/NotificationToast/obj/Debug/netstandard2.0/NotificationToast.csprojAssemblyReference.cache
+/Users/aluno/Projects/NotificationToast/NotificationToast/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/NotificationToast/NotificationToast/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/NotificationToast/NotificationToast/obj/Debug/netstandard2.0/NotificationToast.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/NotificationToast/NotificationToast/obj/Debug/netstandard2.0/NotificationToast.AssemblyInfoInputs.cache
+/Users/aluno/Projects/NotificationToast/NotificationToast/obj/Debug/netstandard2.0/NotificationToast.AssemblyInfo.cs
+/Users/aluno/Projects/NotificationToast/NotificationToast/obj/Debug/netstandard2.0/NotificationToast.dll
+/Users/aluno/Projects/NotificationToast/NotificationToast/obj/Debug/netstandard2.0/NotificationToast.pdb
+/Users/aluno/Projects/NotificationToast/NotificationToast/bin/Debug/netstandard2.0/NotificationToast.deps.json
+/Users/aluno/Projects/NotificationToast/NotificationToast/bin/Debug/netstandard2.0/NotificationToast.dll
+/Users/aluno/Projects/NotificationToast/NotificationToast/bin/Debug/netstandard2.0/NotificationToast.pdb
+/Users/aluno/Projects/NotificationToast/NotificationToast/bin/Debug/netstandard2.0/Mono.Android.dll
+/Users/aluno/Projects/NotificationToast/NotificationToast/bin/Debug/netstandard2.0/Mono.Android.pdb
+/Users/aluno/Projects/NotificationToast/NotificationToast/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/NotificationToast/NotificationToast/obj/Debug/netstandard2.0/NotificationToast.csproj.CopyComplete

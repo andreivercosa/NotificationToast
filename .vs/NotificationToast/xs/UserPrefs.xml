@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3D1FB379-CB36-4DD2-913A-D878C723F8A7}|Default">
+  <MonoDevelop.Ide.ItemProperties.NotificationToast.Android FirstBuild="True" PreferredExecutionTarget="Android.JBAKB6044247LNM" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NotificationToast/INotification.cs">
+    <Files>
+      <File FileName="NotificationToast/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="NotificationToast/MainPage.xaml" Line="22" Column="30" />
+      <File FileName="NotificationToast/INotification.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NotificationToast" expanded="True">
+            <Node name="NotificationToast" expanded="True">
+              <Node name="INotification.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NotificationToast.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NotificationToast FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
